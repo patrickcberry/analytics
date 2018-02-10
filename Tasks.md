@@ -6,18 +6,18 @@ sidebar_link: true
 
 List of tasks to be completed in the initial set up of the analytics documentation project.
 
-# Sidebar
+## Sidebar
 - [ ] Add linkedin link
 - [ ] Remove/update license
 
-# Home
-- [ ]
+## Home
+- [ ] Complete content
 
-# About
+## About
 - [ ] Add bio and link to linkedin and personal website
 
-# Categories
+## Categories
 
-# Miscelanous
+## Miscellaneous
 
 - [ ] Update favicon
