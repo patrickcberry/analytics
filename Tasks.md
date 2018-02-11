@@ -30,4 +30,4 @@ List of tasks to be completed in the initial set up of the analytics documentati
 - Item 3
 
 
-Version 0.5
+Version 0.6
