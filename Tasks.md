@@ -12,6 +12,7 @@ List of tasks to be completed in the initial set up of the analytics documentati
 - [ ] Aaaa
 - Item without checkbox
 * [ ] Bbbb
+{: list-style-type=none}
 
 ## Home
 - [ ] Complete content
