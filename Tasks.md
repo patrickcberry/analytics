@@ -10,6 +10,7 @@ List of tasks to be completed in the initial set up of the analytics documentati
 - [x] Add linkedin link
 - [ ] Remove/update license
 - [ ] Aaaa
+- Item without checkbox
 * [ ] Bbbb
 
 ## Home
