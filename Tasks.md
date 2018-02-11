@@ -6,7 +6,7 @@ sidebar_link: true
 
 List of tasks to be completed in the initial set up of the analytics documentation project.
 
-## ABC
+## Sidebar
 
 Some text.
 
