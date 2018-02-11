@@ -6,6 +6,8 @@ sidebar_link: true
 
 List of tasks to be completed in the initial set up of the analytics documentation project.
 
+{:refdef: .task-list-item list-style-type=square}
+
 ## Sidebar
 - [x] Add linkedin link
 - [ ] Remove/update license
