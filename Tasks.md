@@ -29,6 +29,11 @@ Some text.
 
 ## Categories
 
+{:refdef: style="list-style-type: none"}
+- [ ] Reference articles listed
+{: refdef}
+
+
 ## Miscellaneous
 
 {:refdef: style="list-style-type: none"}
