@@ -17,3 +17,5 @@ Wikipedia defines analytics as:
 
 <cite>Wikipedia</cite> --- 2018
 {: .small}
+
+Version: 0.1
