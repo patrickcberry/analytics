@@ -6,7 +6,7 @@ sidebar_link: true
 
 List of tasks to be completed in the initial set up of the analytics documentation project.
 
-## Sidebar
+## ABC
 
 Some text.
 
@@ -35,4 +35,4 @@ Some text.
 - [ ] Update favicon
 {: refdef}
 
-Version 0.7
+Version 0.8
