@@ -1,6 +1,5 @@
 # Dependencies
 markdown:         kramdown
-  input:          GFM
 highlighter:      rouge
 
 # Setup
@@ -36,3 +35,6 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 github:
   repo:             https://github.com/patrickcberry/analytics
+
+kramdown:
+  input:          GFM  
