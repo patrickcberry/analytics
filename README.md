@@ -1,3 +1,17 @@
+# Task list test
+
+- Item 1
+- Item 2
+- Item 3
+
+A task list with checkboxes,
+
+- [ ] Task 1
+- [x] Task 2
+- [ ] Task 3
+
+
+
 # Hydeout
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
