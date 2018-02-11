@@ -10,9 +10,8 @@ List of tasks to be completed in the initial set up of the analytics documentati
 - [x] Add linkedin link
 - [ ] Remove/update license
 - [ ] Aaaa
-- Item without checkbox
-* [ ] Bbbb
-{: list-style-type=none}
+- [ ] Bbbb
+{: list-style-type=square}
 
 ## Home
 - [ ] Complete content
@@ -30,4 +29,4 @@ List of tasks to be completed in the initial set up of the analytics documentati
 - Item 3
 
 
-Version 0.3
+Version 0.4
