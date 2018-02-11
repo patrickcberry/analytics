@@ -7,27 +7,30 @@ sidebar_link: true
 List of tasks to be completed in the initial set up of the analytics documentation project.
 
 ## Sidebar
-{:refdef: .marker-classX style="list-style-type: none"}
-- [x] Add linkedin link
-- [ ] Remove/update license
-- [ ] Aaaa
-- [ ] Bbbb
+
+{:refdef: style="list-style-type: none"}
+- [ ] Add linkedin link
+- [x] Remove/update license
 {: refdef}
 
 ## Home
+
+{:refdef: style="list-style-type: none"}
 - [ ] Complete content
+{: refdef}
 
 ## About
+
+{:refdef: style="list-style-type: none"}
 - [ ] Add bio and link to linkedin and personal website
+{: refdef}
 
 ## Categories
 
 ## Miscellaneous
+
+{:refdef: style="list-style-type: none"}
 - [ ] Update favicon
+{: refdef}
 
-- Item 1
-- Item 2
-- Item 3
-
-
-Version 0.6
+Version 0.7
