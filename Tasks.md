@@ -8,8 +8,6 @@ List of tasks to be completed in the initial set up of the analytics documentati
 
 ## The Sidebar
 
-Some text.
-
 {:refdef: style="list-style-type: none"}
 - [ ] Add linkedin link
 - [x] Remove/update license
@@ -39,5 +37,3 @@ Some text.
 {:refdef: style="list-style-type: none"}
 - [ ] Update favicon
 {: refdef}
-
-Version 0.8
