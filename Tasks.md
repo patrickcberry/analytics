@@ -28,7 +28,7 @@ List of tasks to be completed in the initial set up of the analytics documentati
 ## Categories
 
 {:refdef: style="list-style-type: none"}
-- [ ] Reference articles listed
+- [x] Reference articles listed
 {: refdef}
 
 
